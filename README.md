@@ -14,7 +14,3 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhouoib&show_icons=true&locale=en" alt="nhouoib" /></p>
-
-<a href="https://github.com/zyuan8591/life_project_fe">LIFE side project fe</a>
-<br>
-<a href="https://github.com/zyuan8591/life_project_be">LIFE side project be</a>
